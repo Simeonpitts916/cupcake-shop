@@ -2,24 +2,16 @@
     color: red;
   }
   
-  .unimportant {
+.unimportant {
     color: blue;
   }
 
-  .underline {
-    text-underline-position: below;
-    text-decoration-line: underline;
-  }
-
-  h1{
+ h1{
     color: darkblue;
     size-adjust: 20%;
     background-color: darkslategray;
     background-size: auto;
     font-weight: 400;
     font-style: oblique;
-    font-variant-position: sub;
+    text-align: center;
   }
-
- 
-  
