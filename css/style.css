@@ -14,10 +14,11 @@
   h1{
     color: darkblue;
     size-adjust: 20%;
-    text-decoration-color: rgb(255, 0, 0);
     background-color: darkslategray;
     background-size: auto;
     font-weight: 400;
+    font-style: oblique;
+    font-variant-position: sub;
   }
 
  
