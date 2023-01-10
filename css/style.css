@@ -6,6 +6,10 @@
     color: blue;
   }
 
+  .underline {
+    text-underline-position: below;color: black;
+  }
+
   h1{
     color: darkblue;
     size-adjust: 20%;
