@@ -6,7 +6,11 @@
     color: blue;
   }
 
- h1{
+.container{
+  color: black;
+  
+}
+h1{
     color: darkblue;
     size-adjust: 20%;
     background-color: darkslategray;
@@ -15,3 +19,7 @@
     font-style: oblique;
     text-align: center;
   }
+
+h2{
+
+}
