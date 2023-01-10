@@ -8,18 +8,5 @@
 
 .container{
   color: black;
-  
-}
-h1{
-    color: darkblue;
-    size-adjust: 20%;
-    background-color: darkslategray;
-    background-size: auto;
-    font-weight: 400;
-    font-style: oblique;
-    text-align: center;
-  }
-
-h2{
-
+  display: contents;
 }
