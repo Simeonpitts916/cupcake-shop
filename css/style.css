@@ -5,3 +5,17 @@
   .unimportant {
     color: blue;
   }
+
+  h1{
+    color: darkblue;
+    size-adjust: 20%;
+  }
+
+  h2{
+    font-style: inherit;
+  }
+
+  h3{
+    background-color: darkslategray;
+    background-size: auto;
+  }
