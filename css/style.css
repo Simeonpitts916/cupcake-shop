@@ -1,12 +1,46 @@
-.important {
-    color: red;
-  }
-  
-.unimportant {
-    color: blue;
-  }
+.container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
 
-.container{
-  color: blue;
-  display: contents;
+body {
+  background-color: black;
+}
+
+.card {
+  background-color: aliceblue;
+  width: 230px;
+  
+  margin: 20px;
+  border-radius: 15px;
+}
+
+.card-img {
+  background-color: aqua;
+  height: 150px;
+  margin-bottom: 15px;
+  background-size: cover;
+  border-radius: 15px;
+}
+
+.car-1 {
+  background-image: url(img/ronn_motor_scorpion_super_car-1680x1050.jpg);
+}
+
+.card h2 {
+  padding: 10px;
+}
+
+.card p {
+  padding: 10;
+}
+
+.card a {
+  background-color: black;
+  color: aliceblue;
+  padding: 15px 20px;
+  text-align: center;
+  display: block;
+  margin: 20px 50px;
 }
